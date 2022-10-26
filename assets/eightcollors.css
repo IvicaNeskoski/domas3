@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    height: 100vh;
+}
+
+.collors8{
+    
+    width: 65%;
+    height: 100%;
+    background-color: beige;
+    float: left;
+   
+}
+
+.collor_red{
+    background-color: red;
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin: 10 10 10 10;
+}
+.collor_cyan{
+    background-color: lightseagreen;
+    height: 150px;
+    width: 400px;
+    margin: 10 10 10 10;
+    float: left;
+
+}
+
+.collor_green{
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    margin: 10 10 10 10;
+    float: left;
+}
+
+.orange{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+   display: inline-block;
+    margin: 10 10 10 10;
+  
+
+}
+
+.light_orange{
+    background-color: lightsalmon;
+    height: 200px;
+    width: 565px;
+    margin: 10 10 10 10;
+    display: inline-block;
+
+}
+
+.down{
+    width: 35%;
+    height: 100%;
+    background-color: beige;
+    float: left;
+   
+}
+
+.collor_blue1{
+    background-color: lightskyblue;
+    height: 370px;
+    width: 150px;
+    display: inline-block;
+    margin: 10 10 10 10;
+    
+}
+
+.collor_blue2{
+    background-color: blue;
+    height: 370px;
+    width: 250px;
+    display: inline-block;
+    margin: 10 10 10 10;
+
+}
+
+.collor_blue3{
+    background-color: blueviolet;
+    height: 370px;
+    width: 30px;
+    display: inline-block;
+    margin: 10 10 10 10;
+
+}
+    

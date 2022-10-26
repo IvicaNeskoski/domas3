@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.log{
+    float: left;
+    width: 25%;
+    height: 100px;
+    color: #fff;
+    background-color: orange;
+    margin: 10 10 10 10;
+    padding: 10px;
+}
+.header{
+    width: 65%;
+    height: 100px;
+    background-color: violet;
+    display: inline-block;
+    margin: 10 10 10 10;
+    padding: 10px;
+    
+}
+.sidebar{
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    margin: 10 10 10 10;
+    float: left;
+}
+
+.promo{
+    display: inline-block;
+    width: 500px;
+}
+
+.promo_1{
+    height: 100px;
+    background-color: blue;
+    margin: 10 10 10 10;
+}
+
+.news_1{
+    height: 100px;
+    width: 200px;
+    background-color: red;
+    margin: 10 10 10 10;
+
+}
+
+.ads_1{
+    height: 100px;
+    width: 200px;
+    background-color: violet;
+    margin: 10 10 10 10;
+}
+
+.content_1{
+    height: 100px;
+    width: 200px;
+    background-color: orange;
+    margin: 10 10 10 10;
+}
+
+.article{
+    display: inline-block;
+    width: 500px;
+    
+    
+
+}
+
+.box_gray{
+    height: 125px;
+    width: 515px;
+    background-color: gray;
+    margin: 10 10 10 10;
+}
+
+.box_green{
+    height: 125px;
+    width: 515px;
+    background-color: green;
+    margin: 10 10 10 10;
+
+}
+
+.box_orange{
+    height: 125px;
+    width: 515px;
+    background-color: orange;
+    margin: 10 10 10 10;
+}
